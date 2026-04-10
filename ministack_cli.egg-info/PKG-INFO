@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: ministack-cli
+Version: 0.1.0
+Summary: Ministack setup CLI for the payment flow simulation
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: awscli>=1.44.73
+Requires-Dist: rich>=14.3.3

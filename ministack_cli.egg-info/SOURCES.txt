@@ -1,0 +1,9 @@
+README.md
+main.py
+pyproject.toml
+ministack_cli.egg-info/PKG-INFO
+ministack_cli.egg-info/SOURCES.txt
+ministack_cli.egg-info/dependency_links.txt
+ministack_cli.egg-info/entry_points.txt
+ministack_cli.egg-info/requires.txt
+ministack_cli.egg-info/top_level.txt

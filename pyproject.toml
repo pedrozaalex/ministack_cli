@@ -1,0 +1,16 @@
+[project]
+name = "ministack-cli"
+version = "0.1.0"
+description = "Ministack setup CLI for the payment flow simulation"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "awscli>=1.44.73",
+    "rich>=14.3.3",
+]
+
+[project.scripts]
+mstk-setup = "main:main"
+
+[tool.setuptools]
+py-modules = ["main"]

@@ -1,0 +1,2 @@
+[console_scripts]
+mstk-setup = main:main
